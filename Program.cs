@@ -1,4 +1,5 @@
 ﻿using CSharpCollections;
 
 // Arrays.main();
-Listas.main();
+// Listas.main();
+Sets.main();
